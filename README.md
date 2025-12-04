@@ -140,6 +140,6 @@ MIT — libre d'utilisation, modification et distribution.
 
 Hilary Alexandre Mejiomo
 🚀 Étudiant en informatique & cybersécurité
-🔗 GitHub : https://github.com/hilarymejiomo
+🔗 GitHub : https://github.com/hilarymejiomo-ctrl
 
 🌐 Projet en ligne : https://cyber-password.vercel.app
